@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/quiz-app-react/static/js/main.2cd7682c.js",
+    "static/js/787.a25b7cdb.chunk.js": "/quiz-app-react/static/js/787.a25b7cdb.chunk.js",
+    "index.html": "/quiz-app-react/index.html",
+    "main.2cd7682c.js.map": "/quiz-app-react/static/js/main.2cd7682c.js.map",
+    "787.a25b7cdb.chunk.js.map": "/quiz-app-react/static/js/787.a25b7cdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2cd7682c.js"
+  ]
+}

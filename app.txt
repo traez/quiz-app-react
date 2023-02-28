@@ -1,0 +1,38 @@
+------------------------------MAIN
+URL Shortener-API JavaScript Project
+------------------------------2 H1
+Paste the URL to be shortened
+------------------------------1 Header H2
+form input button-shorten URL
+------------------------------2 Header Form
+This is a free tool to shorten a URL or reduce a link, thereby making it easier to remember
+------------------------------1 Header H3
+URL Shorter Button-Copy
+------------------------------1 Menu li
+Blank
+------------------------------Auto Section 
+Github
+------------------------------1 Footer
+
+
+--------Nav
+--------Nav Header -- Nav B
+--------Nav Header div - Nav Header stong
+--------Main
+--------Main h1 -- Main ul
+--------Main footer
+
+91 -84 90 5.6rem 15.3%
+459 -424 450 28rem 77.1%
+[45.5] -42 45 2.8rem 7.6%
+
+550px width
+550px height
+
+595.5
+
+grid-template: 15.3fr 77.1fr 7.6fr/auto;
+
+grid-template: 91px 459px 45.5px/auto;
+
+grid-template: 84px 424px 42px/auto;
